@@ -18,9 +18,9 @@ const ComponentName = () => {
                     <p className="mt-8 text-base text-black sm:text-xl">Kraf Technology, we turn your digital dreams into reality. Let's reshape and elevate your online presence together.</p>
 
                     <div className="mt-10 sm:flex sm:items-center sm:space-x-8">
-                        <a href="#" title="" className="inline-flex items-center justify-center px-10 py-4 text-base font-semibold text-black border rounded-full transition-all duration-200  hover:bg-[#15a885]" role="button"> Discover More <ion-icon name="chevron-forward-outline"></ion-icon></a>
+                        <a href="../pages/Services.jsx" title="" className="inline-flex items-center justify-center px-10 py-4 text-base font-semibold text-black border rounded-full transition-all duration-200  hover:bg-[#15a885]" role="button"> Discover More <ion-icon name="chevron-forward-outline"></ion-icon></a>
 
-                        <a href="#" title="" className="inline-flex items-center mt-6 text-base font-semibold transition-all duration-200 sm:mt-0 border px-10 py-4 rounded-full hover:bg-[#15a885] gap-2">
+                        <a href="https://calendly.com/seventechservice/30min" title="" className="inline-flex items-center mt-6 text-base font-semibold transition-all duration-200 sm:mt-0 border px-10 py-4 rounded-full hover:bg-[#15a885] gap-2">
                             Schedule a Call <ion-icon name="call-sharp"></ion-icon>
                         </a>
                     </div>
